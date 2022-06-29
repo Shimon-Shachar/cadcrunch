@@ -2,5 +2,9 @@
 
 the goal is to take json files from cad / autocad dwg files 
 and chew them up and spit out the relevant parameters like
-points and vectors to build my own models and utilities
-im assuming the models will go into their own git project, lets give a a name ... maybe coremodel?
+points and vectors
+
+then build a simple building element models and use relevent parameters to inform the model just to test
+
+lastly use all parameters to build models with help (minimal) from 
+user
