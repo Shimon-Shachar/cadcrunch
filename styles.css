@@ -1,0 +1,13 @@
+body { position: relative;
+    background-image:
+    radial-gradient(rgb(2, 101, 104), rgb(108, 200, 246)),
+    repeating-conic-gradient(from 45deg, rgb(28, 11, 98) 0deg 90deg, rgb(133, 185, 248) 90deg 180deg);
+}
+
+
+.div1 {
+    position: absolute;
+    top: 150px;
+    left: 200px;
+}
+
